@@ -11,10 +11,6 @@ categories:
   - μικτή-πραγματικότητα
   - συσκευή-εισόδου
 tags:
-  - Nintendo
-  - Wii
-  - Wii-console
-  - motion-sensor
-  - αισθητήρας-κίνησης
-  - συσκευή-εισόδου
+  - Nintento
+  - Βιντεοπαιχνίδι
 ---
