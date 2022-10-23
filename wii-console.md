@@ -8,8 +8,6 @@ license_text: wikimedia
 categories:
   - Βιντεοπαιχνίδια
   - input-device
-  - μικτή-πραγματικότητα
-  - συσκευή-εισόδου
   - Κονσόλες
 tags:
   - Nintento
